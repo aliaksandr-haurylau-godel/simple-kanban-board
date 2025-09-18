@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Kanban Board",
+  "description": "A visually appealing Kanban board application that uses the Gemini API to intelligently generate tasks from project goals, helping you organize and streamline your workflow with drag-and-drop simplicity.",
+  "requestFramePermissions": []
+}
